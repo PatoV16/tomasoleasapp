@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199928698380",
+    "firebase_url": "https://base1-55ca6-default-rtdb.firebaseio.com",
+    "project_id": "base1-55ca6",
+    "storage_bucket": "base1-55ca6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199928698380:android:842617e0548ad4ff6ac029",
+        "android_client_info": {
+          "package_name": "com.example.tomasoleasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199928698380-gupvd9bsf7tv6o63el1ob12fbt5ubri8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRgx05-l7az9k-JGt80pP5JYr6xkhIbfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199928698380-01sqkh9u3bh3vi00s1dq4gkmv8p40jh1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199928698380-71glhiekmfm1f8e66h9b1ua9mbjod8tp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.webTo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
